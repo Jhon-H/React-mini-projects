@@ -4,4 +4,4 @@ Repositorio con enlaces a mini proyectos hechos con React
 
 ## Links 🚀
 
-1. <a href="https://codesandbox.io/s/tic-tac-toe-ffceb?file=/src/components/Square.js" target="_blank"> Tic Tac Toe</a>
+1. [Tic Tac Toe](https://codesandbox.io/s/tic-tac-toe-ffceb?file=/src/components/Square.js)
